@@ -1,10 +1,9 @@
 @font-face {
-    font-family: 'Avenir';
-    src: url('/static/fonts/Avenir/Avenir-Regular.ttf');
+    font-family: 'Verdana';
    }
    
    body {
     font-style: normal;
-    font-family: 'Avenir', sans-serif;
+    font-family: 'Verdana', sans-serif;
    }
    
