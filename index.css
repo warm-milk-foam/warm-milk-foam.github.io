@@ -1,9 +1,8 @@
-@font-face {
-    font-family: 'Verdana';
-   }
-   
+* {
+    font-family: system-ui;
+}
+
    body {
     font-style: normal;
-    font-family: 'Verdana', sans-serif;
    }
    
